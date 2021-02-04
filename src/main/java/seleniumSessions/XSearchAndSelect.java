@@ -12,8 +12,8 @@ public class XSearchAndSelect {
 		WebDriver driver = df.init_driver(browserName);
 		
 		//String url = "http://automationpractice.com/index.php";
-		//String url = "https://www.google.com";
-		String url = "https://www.xvideos.com/";
+		String url = "https://www.google.com";
+		
 		df.launchUrl(url);
 		
 		//By search_loc = By.id("search_query_top");
