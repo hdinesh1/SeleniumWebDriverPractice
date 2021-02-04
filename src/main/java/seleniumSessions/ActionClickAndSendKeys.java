@@ -9,6 +9,7 @@ public class ActionClickAndSendKeys {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Added a new comment to check in GIT
 		String browserName = "Opera";
 		DriverFactory df = new DriverFactory();
 		String url = "https://demo.opencart.com/index.php?route=account/register";
